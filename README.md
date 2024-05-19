@@ -56,3 +56,4 @@ For more information on functions and how they are used in JS, check out the MDN
 [MDN_docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
 
+![Computer with Code](https://t3.ftcdn.net/jpg/03/48/39/74/360_F_348397404_wXuf22GUPNAh67htBZZnaDSx3Bj92yep.jpg)
